@@ -1,0 +1,5 @@
+[debug] Running TaskDef(Test1, com.novocode.junit.JUnitFingerprint@71c815a0, false, [SuiteSelector])
+[debug] Summary for JUnit not available.
+[info] Passed: Total 1, Failed 0, Errors 0, Passed 1
+[debug] Passed tests:
+[debug] 	Test1
