@@ -1,0 +1,7 @@
+Hi Jan,
+this is a strange submission - you did not follow the naming convention and there are program files in this submission that do not belong here, e.g., Company.
+
+It appears that your submission lacks proper environments for storing macros and variables and scopes, there is no implementation for nested scopes with shadowing and holes. You have earned 3%.
+
+Thank you,
+Mark
